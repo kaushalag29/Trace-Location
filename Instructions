@@ -1,0 +1,3 @@
+Keep Firewall off for port forwarding
+Give chmod -R 777 permissions to all directories in which you are saving logs file.
+Host a website with following php file.(Any one,both gives diff results)
